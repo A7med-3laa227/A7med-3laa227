@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Analysis and machine learning**
 
-(https://github.com/A7med-3laa227/A7med-3laa227/commit/1448e50592edf53a03e644ba55f21ce0d0981d1a)
+
 
 
 - 📫 How to reach me **ahmedalaa65675@gmail.com**

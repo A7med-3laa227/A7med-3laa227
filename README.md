@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Data Analysis and machine learning**
 
 - 📫 How to reach me **ahmedalaa65675@gmail.com**
+- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

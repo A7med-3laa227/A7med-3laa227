@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
-<h3 align="center">A passionate Data Science from Egypt</h3>
+<h3 align="center">A passionate Data Engineering from Egypt</h3>
 
 - 🌱 I’m currently learning **Data Engineering**
 

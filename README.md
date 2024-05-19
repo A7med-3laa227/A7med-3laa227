@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
 <h3 align="center">A passionate Data Science from Egypt</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **ahmedalaa65675@gmail.com**
-
-- ⚡ Fun fact **I love Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
